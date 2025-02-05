@@ -1,0 +1,7 @@
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\MailroomManagement.pdb
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\comerr64.dll
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\gssapi64.dll
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\k5sprt64.dll
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\krb5_64.dll
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\krbcc64.dll
+C:\Users\OzFromMarz\Documents\wtamu\ObjDsgn\casestudy3\MailroomManagement\bin\Release\net9.0\win-x64\publish\MailroomManagement.exe
