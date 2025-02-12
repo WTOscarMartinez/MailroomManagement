@@ -6,7 +6,7 @@
 
 #### Technologies Used
 
-- Programming Language: C#, MySQL, MySQL Server
+- Programming Language: C#, MySQL server
 - IDE: Visual Studio Code
 - Libraries: System.IO, System.Collections.Generic, MySQL, System.Net, System.Text, System.Data
 - Concepts: Object-Oriented Programming ([OOAD PDF](https://github.com/WTOscarMartinez/MailroomManagement/blob/ea9b620f0edadc857f7fd7b7fd6c6720bcf25a97/OOADMailroomManagement.pdf))
